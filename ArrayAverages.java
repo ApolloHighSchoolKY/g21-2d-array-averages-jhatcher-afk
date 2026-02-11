@@ -55,7 +55,7 @@ public class ArrayAverages{
 
   public void arrayAverage(){
     
-    int average2 = 0;
+    double average2 = 0;
     for(int row = 0; row< ray.length;row++)
     {
         for(int col = 0; col<ray[row].length;col++)
